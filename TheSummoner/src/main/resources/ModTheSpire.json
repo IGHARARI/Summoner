@@ -1,0 +1,12 @@
+{
+  "modid": "thesummoner",
+  "name": "The Summoner",
+  "author_list": ["Korbo"],
+  "description": "The summoner.",
+  "version": "${project.version}",
+  "sts_version": "${SlayTheSpire.version}",
+  "mts_version": "${ModTheSpire.version}",
+  "dependencies": ["basemod", "stslib", "Friendly_Minions_0987678"],
+  "update_json": ""
+}
+
